@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/taikoh"><img src="https://api.daily.dev/devcards/v2/LrBvO01WCnjx3mRWjLd6J.png?type=default&r=0e9" width="356" alt="Andreas Jørgensen's Dev Card"/></a>
+<a href="https://app.daily.dev/taikoh"><img src="./devcard.png" width="356" alt="Taikoh's Dev Card"/></a>
