@@ -7,6 +7,7 @@ Currently studying to become a developer at Noroff.
 * ✉️  You can contact me at [ah.joergensen90@gmail.com](mailto:ah.joergensen90@gmail.com)
 * 🧠  I'm currently learning jquery and bootstrap.
 * 🤝  I'm open to collaborating on interesting javascript, html and css projects.
+  
 
     <a href="https://app.daily.dev/taikoh"><img src="./devcard.png" width="356" alt="Taikoh's Dev Card"/></a>
 
