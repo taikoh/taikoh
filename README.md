@@ -6,7 +6,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hi, my name is Andreas Jørgensen
+        👋 Hi, my name is Andreas Jørgensen
       </h1>
     </summary>
   </ul>
