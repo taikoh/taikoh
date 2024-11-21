@@ -31,7 +31,7 @@ I'm an aspiring <b>Back-end Developer</b> from Stavanger, Norway, currently honi
       <a href="https://app.daily.dev/taikoh"><img src="./devcard.png" width="356" alt="Taikoh's Dev Card"/></a>
     </p>
 <h2 class="heading-element" dir="auto"></h2>
-### Skills
+  <h3>Skills</h3>
 
 
 <p align="left">
