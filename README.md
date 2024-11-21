@@ -14,6 +14,7 @@
 
 <p align="center">
 I'm an aspiring <b>Back-end Developer</b> from Stavanger, Norway, currently honing my skills at <b>Noroff School of Technology and Digital Media.</b></p>
+<p align="center">Feel free to explore my projects and connect with me—I'm always excited to collaborate and learn!</p>
 
 <h2 class="heading-element" dir="auto"></h2>
   <h3>Skills</h3>
@@ -21,8 +22,6 @@ I'm an aspiring <b>Back-end Developer</b> from Stavanger, Norway, currently honi
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 </p>
 
-
-<p align="center">Feel free to explore my projects and connect with me—I'm always excited to collaborate and learn!</p><br>
 <h2 class="heading-element" dir="auto"></h2>
 <h3><b><u>Socials:</u></b></h3>
 
