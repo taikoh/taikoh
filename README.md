@@ -15,6 +15,7 @@
 <h3 align="center">I'm an aspiring <b>Back-end Developer</b> from Stavanger, Norway, currently honing my skills at <b>Noroff School of Technology and Digital Media.</b> With a passion for building efficient, scalable solutions, I'm diving deep into server-side technologies and database management.
 
 Feel free to explore my projects and connect with me—I'm always excited to collaborate and learn! 🚀</h3><br>
+<p align="center">==============================================</p>
 
 * 🌍  I'm based in Stavanger, Norway
 * ✉️  You can contact me at [ah.joergensen90@gmail.com](mailto:ah.joergensen90@gmail.com)
