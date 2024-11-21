@@ -12,6 +12,9 @@
   </ul>
 </div>
 
+**<h3 align="center">Connect with me:</h3>** 
+<p align="center"><a href="ah.joergensen90@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" style="margin-right: 4px"></a> <a href="https://github.com/Taikoh" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="32" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/andreas-høisæth-jørgensen-1b96a28b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" style="margin-right: 4px"></a></p>
+
 <p align="center">
 I'm an aspiring <b>Back-end Developer</b>, currently honing my skills at <b>Noroff School of Technology and Digital Media. </b> With a passion for building efficient, scalable solutions, I'm diving deep into server-side technologies and database management.</p>
 <p align="center">Feel free to explore my projects and connect with me—I'm always excited to collaborate and learn! 🚀</p>
