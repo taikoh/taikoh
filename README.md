@@ -27,7 +27,7 @@ I'm an aspiring <b>Back-end Developer</b> from Stavanger, Norway, currently honi
 * 🧠  I'm currently learning jQuery and Bootstrap.
 * 🤝  I'm open to collaborating on interesting javascript, html and css projects.
   
-    <p align="center"><br>
+    <p align="center">
       <a href="https://app.daily.dev/taikoh"><img src="./devcard.png" width="356" alt="Taikoh's Dev Card"/></a>
     </p>
 <h2 class="heading-element" dir="auto"></h2>
