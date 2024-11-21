@@ -22,7 +22,7 @@ Feel free to explore my projects and connect with me—I'm always excited to col
 * 🧠  I'm currently learning jQuery and Bootstrap.
 * 🤝  I'm open to collaborating on interesting javascript, html and css projects.
   
-    <a align="center" href="https://app.daily.dev/taikoh"><img src="./devcard.png" width="356" alt="Taikoh's Dev Card"/></a>
+    <a href="https://app.daily.dev/taikoh"><img align="center" src="./devcard.png" width="356" alt="Taikoh's Dev Card"/></a>
 
 ### Skills
 
