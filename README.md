@@ -6,13 +6,11 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        👋 Hi, my name is Andreas Jørgensen
+        ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hi, my name is Andreas Jørgensen
       </h1>
     </summary>
   </ul>
 </div>
-
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andreas Jørgensen
 =========================================================================================================================================
 
 Currently studying to become a developer at Noroff.
@@ -22,7 +20,7 @@ Currently studying to become a developer at Noroff.
 * 🧠  I'm currently learning jquery and bootstrap.
 * 🤝  I'm open to collaborating on interesting javascript, html and css projects.
   
-    <a href="https://app.daily.dev/taikoh"><img src="./devcard.png" width="356" alt="Taikoh's Dev Card"/></a>
+    <a align="center" href="https://app.daily.dev/taikoh"><img src="./devcard.png" width="356" alt="Taikoh's Dev Card"/></a>
 
 ### Skills
 
