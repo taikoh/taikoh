@@ -32,7 +32,6 @@ I'm an aspiring <b>Back-end Developer</b>, currently honing my skills at <b>Noro
 * ✉️  You can contact me at <a href="mailto:ah.joergensen90@gmail.com">email.</a>
 * 🧠  I'm currently learning jQuery and Bootstrap.
 * 🤝  I'm open to collaborating on interesting JavaScript, HTML and CSS projects.
-  
     <p align="center"><br>
       <a href="https://app.daily.dev/taikoh"><img src="./devcard.png" width="356" alt="Taikoh's Dev Card"/></a>
     </p>
