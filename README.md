@@ -1,4 +1,4 @@
-![👋 Hi, my name is Andreas Jørgensen](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+![👋 Hi, my name is Andreas Jørgensen](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Taikoh&label=Profile%20views&color=0e75b6&style=flat)
 
