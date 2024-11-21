@@ -15,9 +15,9 @@
 **<h3>Connect with me:</h3>** 
 <p><a href="ah.joergensen90@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" style="margin-right: 4px"></a> <a href="https://github.com/Taikoh" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="32" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/andreas-høisæth-jørgensen-1b96a28b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" style="margin-right: 4px"></a> </picture> </a> <a href="https://discord.com/users/tyco8926" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a></p>
 
-<p>
-I'm an aspiring <b>Back-end Developer</b>, currently honing my skills at <b>Noroff School of Technology and Digital Media. </b> With a passion for building efficient, scalable solutions, I'm diving deep into server-side technologies and database management.</p>
-<p>Feel free to explore my projects and connect with me—I'm always excited to collaborate and learn! 🚀</p>
+<p dir="auto">
+I'm an aspiring <strong>Back-end Developer</strong>, currently honing my skills at <strong>Noroff School of Technology and Digital Media. </strong> With a passion for building efficient, scalable solutions, I'm diving deep into server-side technologies and database management.</p>
+<p dir="auto">Feel free to explore my projects and connect with me—I'm always excited to collaborate and learn! 🚀</p>
 
 <h2 class="heading-element" dir="auto"></h2>
   <h3>Skills</h3>
