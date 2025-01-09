@@ -29,7 +29,7 @@ I'm an aspiring <strong>Back-end Developer</strong>, currently honing my skills 
 
 * 🌍  I'm based in Stavanger, Norway
 * ✉️  You can contact me at: <a href="mailto:ah.joergensen90@gmail.com">e-mail.</a>
-* 🧠  I'm currently learning jQuery and Bootstrap.
+* 🧠  I'm currently learning JavaScript and Python.
 * 🤝  I'm open to collaborating on interesting JavaScript, HTML and CSS projects.
 
 <h2 class="heading-element" dir="auto"></h2>
