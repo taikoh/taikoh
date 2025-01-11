@@ -15,9 +15,12 @@
 **<h3>Connect with me:</h3>** 
 <p><a href="mailto:ah.joergensen90@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" style="margin-right: 4px"></a> <a href="https://github.com/Taikoh" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="32" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/andreas-høisæth-jørgensen-1b96a28b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" style="margin-right: 4px"></a> </picture> </a> <a href="https://discord.com/users/tyco8926" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a></p>
 
-<p>
-I'm an aspiring <strong>Back-end Developer</strong>, currently honing my skills at <strong>Noroff School of Technology and Digital Media. </strong> With a passion for building efficient, scalable solutions, I'm diving deep into server-side technologies and database management.</p>
-<p>Feel free to explore my projects and connect with me—I'm always excited to collaborate and learn! 🚀</p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/taikoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="taikoh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/andreas-høisæth-jørgensen-1b96a28b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andreas-høisæth-jørgensen-1b96a28b" height="30" width="40" /></a>
+<a href="https://discord.gg/tyco8926" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tyco8926" height="30" width="40" /></a>
+</p>
 
 <h2 class="heading-element" dir="auto"></h2>
   <h3>Skills</h3>
@@ -25,12 +28,23 @@ I'm an aspiring <strong>Back-end Developer</strong>, currently honing my skills 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
 <h2 class="heading-element" dir="auto"></h2>
 
-* 🌍  I'm based in Stavanger, Norway.
-* ✉️  You can contact me at: <a href="mailto:ah.joergensen90@gmail.com">e-mail.</a>
-* 🧠  I'm currently learning JavaScript and Python.
-* 🤝  I'm open to collaborating on interesting JavaScript, HTML and CSS projects.
+ - 🔭 I’m currently working on **my education at Noroff School of Technology and Digital Media**
+
+- 🌱 I’m currently learning **JavaScript and Python**
+
+- 👯 I’m looking to collaborate on **interesting JavaScript, HTML and CSS projects.**
+
+- 📫 How to reach me **ah.joergensen90@gmail.com**
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taikoh&show_icons=true&locale=en&layout=compact" alt="taikoh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taikoh&" alt="taikoh" /></p>
+
 
 <h2 class="heading-element" dir="auto"></h2>
 
