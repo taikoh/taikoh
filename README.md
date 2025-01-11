@@ -42,5 +42,5 @@ I'm an aspiring <strong>Back-end Developer</strong>, currently honing my skills 
  <h3 align="left">GitHub Stats</h3>
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Taikoh&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=taikoh&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=taikoh&theme=dracula&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </p>
