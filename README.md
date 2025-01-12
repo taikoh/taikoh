@@ -42,9 +42,9 @@
 <br/>  
 <h2 class="heading-element" dir="auto"></h2>
 
- - 🔭 I’m currently working on **my education at Noroff School of Technology and Digital Media**
+ - 🔭 I’m currently working on **my education at Noroff School of Technology and Digital Media.**
 
-- 🌱 I’m currently learning **JavaScript and Python**
+- 🌱 I’m currently learning **JavaScript and Python.**
 
 - 👯 I’m looking to collaborate on **interesting JavaScript, HTML and CSS projects.**
 
