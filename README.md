@@ -48,7 +48,7 @@
 
  - 🔭 I’m currently working on **my education at Noroff School of Technology and Digital Media.**
 
-- 🌱 I’m currently learning **JavaScript and React.**
+- 🌱 I’m currently learning **Express and REST**
 
 - 👯 I’m looking to collaborate on **interesting JavaScript, HTML and CSS projects.**
 
